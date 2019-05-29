@@ -42,21 +42,21 @@ Use these commands to install the packages:
 
 This is the bamazon welcome and product list:
 
-![bamazon welcome](images/bamazon-welcome.png)
+![bamazon welcome](images/bamazon-welcome.PNG)
 
 
 This shows a summary of a successfully placed order:
 (also note the update of the quantity in the database)
 
-![bamazon order summary](images/successful-order.png)
+![bamazon order summary](images/successful-order.PNG)
 
 
 This shows your options if inventory is too low for your order:
 
-![bamazon options 1](images/insufficient-inventory.png)
+![bamazon options 1](images/insufficient-inventory.PNG)
 
 
 This shows your options if an item is out of stock:
 
-![bamazon options 2](images/outofstock.jpg)
+![bamazon options 2](images/outofstock.PNG)
 
