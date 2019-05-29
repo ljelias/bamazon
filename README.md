@@ -38,16 +38,16 @@ Use these commands to install the packages:
 
 ### Some screenshots of bamazon in action
 
-#####This is the bamazon welcome and product list:
-![bamazon welcome](images/bamazon-welcome.PNG)
+####This is the bamazon welcome and product list:
+![bamazon welcome](images/bamazon-welcome.jpg)
 
-#####This shows a summary of a successfully placed order:
+####This shows a summary of a successfully placed order:
 (also note the update of the quantity in the database)
-![bamazon order summary](images/successful-order.PNG)
+![bamazon order summary](images/successful-order.jpg)
 
-#####This shows your options if inventory is too low for your order:
-![bamazon options 1](images/insufficient-inventory.PNG)
+####This shows your options if inventory is too low for your order:
+![bamazon options 1](images/insufficient-inventory.jpg)
 
-#####This shows your options if an item is out of stock:
-![bamazon options 2](images/outofstock.PNG)
+####This shows your options if an item is out of stock:
+![bamazon options 2](images/outofstock.jpg)
 
