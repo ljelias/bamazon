@@ -31,23 +31,32 @@ These npm packages need to be installed in order to run bamazon:
 
 Use these commands to install the packages:
 > $ npm install mysql
+
 > $ npm install inquirer
+
 > $ npm install console.table
 
 -----------------------------------------------------
 
 ### Some screenshots of bamazon in action
 
-####This is the bamazon welcome and product list:
-![bamazon welcome](images/bamazon-welcome.jpg)
+This is the bamazon welcome and product list:
 
-####This shows a summary of a successfully placed order:
+![bamazon welcome](images/bamazon-welcome.png)
+
+
+This shows a summary of a successfully placed order:
 (also note the update of the quantity in the database)
-![bamazon order summary](images/successful-order.jpg)
 
-####This shows your options if inventory is too low for your order:
-![bamazon options 1](images/insufficient-inventory.jpg)
+![bamazon order summary](images/successful-order.png)
 
-####This shows your options if an item is out of stock:
+
+This shows your options if inventory is too low for your order:
+
+![bamazon options 1](images/insufficient-inventory.png)
+
+
+This shows your options if an item is out of stock:
+
 ![bamazon options 2](images/outofstock.jpg)
 
